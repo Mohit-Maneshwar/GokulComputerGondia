@@ -10,6 +10,7 @@ const fadeInUp = {
   })
 };
 
+
 const Faculty = () => {
   return (
     <motion.div
